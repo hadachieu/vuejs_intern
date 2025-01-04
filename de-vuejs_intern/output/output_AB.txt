@@ -1,0 +1,8 @@
+A: Chào James! Mình là Lan, đến từ Việt Nam. Rất vui được làm quen với bạn.
+B: Bạn làm nghề gì vậy, Lan?
+A: Mình là cô giáo dạy ngoại ngữ. Còn bạn?
+B: Mình là kỹ sư hàng không.
+A: Nghe thú vị quá! Bạn đến Việt Nam lâu chưa?
+B: Mình mới đến đây được vài ngày.
+A: Hy vọng bạn sẽ thích Việt Nam!
+B: Cảm ơn Lan!
